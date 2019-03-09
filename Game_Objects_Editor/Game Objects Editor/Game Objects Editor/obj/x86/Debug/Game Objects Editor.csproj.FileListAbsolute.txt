@@ -1,0 +1,10 @@
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\obj\x86\Debug\Game Objects Editor.csprojResolveAssemblyReference.cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\obj\x86\Debug\Game_Objects_Editor.Form1.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\obj\x86\Debug\Game_Objects_Editor.Properties.Resources.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\obj\x86\Debug\Game Objects Editor.csproj.GenerateResource.Cache
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\bin\Debug\Game Objects Editor.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\bin\Debug\Game Objects Editor.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\obj\x86\Debug\Game Objects Editor.exe
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\obj\x86\Debug\Game Objects Editor.pdb
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\obj\x86\Debug\Game_Objects_Editor.newChar.resources
+C:\Users\user1\Documents\Visual Studio 2010\Projects\Game Objects Editor\Game Objects Editor\obj\x86\Debug\Game_Objects_Editor.message0.resources
